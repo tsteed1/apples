@@ -4,3 +4,5 @@
     -red
     -green
     -fuji
+    -poison
+    -honey
